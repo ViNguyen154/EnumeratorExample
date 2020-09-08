@@ -1,0 +1,13 @@
+D:\Net\Enumerable\bin\Debug\netcoreapp3.1\Enumerable.exe
+D:\Net\Enumerable\bin\Debug\netcoreapp3.1\Enumerable.deps.json
+D:\Net\Enumerable\bin\Debug\netcoreapp3.1\Enumerable.runtimeconfig.json
+D:\Net\Enumerable\bin\Debug\netcoreapp3.1\Enumerable.runtimeconfig.dev.json
+D:\Net\Enumerable\bin\Debug\netcoreapp3.1\Enumerable.dll
+D:\Net\Enumerable\bin\Debug\netcoreapp3.1\Enumerable.pdb
+D:\Net\Enumerable\obj\Debug\netcoreapp3.1\Enumerable.csprojAssemblyReference.cache
+D:\Net\Enumerable\obj\Debug\netcoreapp3.1\Enumerable.csproj.CoreCompileInputs.cache
+D:\Net\Enumerable\obj\Debug\netcoreapp3.1\Enumerable.AssemblyInfoInputs.cache
+D:\Net\Enumerable\obj\Debug\netcoreapp3.1\Enumerable.AssemblyInfo.cs
+D:\Net\Enumerable\obj\Debug\netcoreapp3.1\Enumerable.dll
+D:\Net\Enumerable\obj\Debug\netcoreapp3.1\Enumerable.pdb
+D:\Net\Enumerable\obj\Debug\netcoreapp3.1\Enumerable.genruntimeconfig.cache
